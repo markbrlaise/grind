@@ -1,1 +1,1 @@
-description to my grind app
+description to grind
