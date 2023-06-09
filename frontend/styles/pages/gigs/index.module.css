@@ -1,0 +1,28 @@
+/* components/index.module.css */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .button {
+    padding: 8px 16px;
+    border: none;
+    background-color: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #ddd;
+  }
+  
+  /* Other styles for reusable components */
+  

@@ -1,0 +1,36 @@
+/* pages/gigs/[id].module.css */
+
+.gig-details-container {
+    padding: 16px;
+  }
+  
+  .gig-details-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .gig-details-description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 16px;
+  }
+  
+  .gig-details-info {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .gig-details-icon {
+    margin-right: 8px;
+  }
+  
+  .gig-details-label {
+    font-weight: bold;
+  }
+  
+  .gig-details-value {
+    color: #666;
+  }
+  

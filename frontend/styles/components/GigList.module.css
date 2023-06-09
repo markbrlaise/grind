@@ -1,0 +1,28 @@
+/* components/GigList.module.css */
+
+.gig-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
+  
+  .gig-list-item {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .gig-list-item-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .gig-list-item-price {
+    font-size: 16px;
+    color: #f44336;
+  }
+  
+  /* Add more styles as needed */
+  

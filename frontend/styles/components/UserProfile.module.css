@@ -1,0 +1,53 @@
+/* components/UserProfile.module.css */
+
+.user-profile-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+  }
+  
+  .user-profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 16px;
+  }
+  
+  .user-profile-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .user-profile-description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 16px;
+  }
+  
+  .user-profile-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .user-profile-details-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+  }
+  
+  .user-profile-icon {
+    margin-right: 8px;
+  }
+  
+  .user-profile-label {
+    font-weight: bold;
+  }
+  
+  .user-profile-value {
+    color: #666;
+  }
+  

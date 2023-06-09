@@ -1,0 +1,27 @@
+/* components/NotificationItem.module.css */
+
+.notification-item {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .notification-icon {
+    margin-right: 12px;
+  }
+  
+  .notification-title {
+    font-weight: bold;
+  }
+  
+  .notification-description {
+    margin-top: 4px;
+    color: #666;
+  }
+  
+  .notification-time {
+    margin-left: auto;
+    color: #999;
+  }
+  

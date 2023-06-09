@@ -1,0 +1,32 @@
+/* pages/user/profile.module.css */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+  
+  .avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-right: 16px;
+  }
+  
+  .username {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .description {
+    font-size: 14px;
+    color: #666666;
+  }
+  
+  /* Other styles for the user profile page */
+  

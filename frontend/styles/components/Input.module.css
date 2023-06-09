@@ -1,0 +1,22 @@
+/* components/Input.module.css */
+
+.input-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .input-field {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 10px;
+  }
+  
+  /* Add more styles as needed */
+  

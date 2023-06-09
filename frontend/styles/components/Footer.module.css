@@ -1,0 +1,21 @@
+/* components/Footer.module.css */
+
+.footer {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+  }
+  
+  .footer-link {
+    color: #888;
+    text-decoration: none;
+  }
+  
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+  
+  /* Add more styles as needed */
+  
